@@ -1,11 +1,11 @@
-import verify from "@/components/Verify"
+import verify from "@/components/Verification"
 
 const verify = () => {
 
     return (
 
         <>
-            <Verify />
+            <Verification />
         </>
 
     )

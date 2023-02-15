@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const verify = () => {
+const Verification = () => {
     const [vaccine, setVaccine] = useState('')
     const [isverified, setIsverified] = useState(false)
     const handleFormSubmit = (e) => {
@@ -84,4 +84,4 @@ const verify = () => {
     )
 }
 
-export default verify
+export default Verification
