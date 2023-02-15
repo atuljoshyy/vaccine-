@@ -1,4 +1,4 @@
-import verify from "@/components/Verification"
+import Verification from "@/components/Verification"
 
 const verify = () => {
 
